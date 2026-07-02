@@ -403,6 +403,7 @@ Building worlds, systems, and experiences across every major engine.
 | Agent | Specialty | When to Use |
 |-------|-----------|-------------|
 | 🎯 [Game Designer](game-development/game-designer.md) | Systems design, GDD authorship, economy balancing, gameplay loops | Designing game mechanics, progression systems, writing design documents |
+| 💰 [Economy Designer](game-development/economy-designer.md) | Virtual currencies, sources/sinks, monetization modeling, inflation control | Designing in-game economies, balancing F2P monetization, live economy tuning |
 | 🗺️ [Level Designer](game-development/level-designer.md) | Layout theory, pacing, encounter design, environmental storytelling | Building levels, designing encounter flow, spatial narrative |
 | 🎨 [Technical Artist](game-development/technical-artist.md) | Shaders, VFX, LOD pipeline, art-to-engine optimization | Bridging art and engineering, shader authoring, performance-safe asset pipelines |
 | 🔊 [Game Audio Engineer](game-development/game-audio-engineer.md) | FMOD/Wwise, adaptive music, spatial audio, audio budgets | Interactive audio systems, dynamic music, audio performance |
